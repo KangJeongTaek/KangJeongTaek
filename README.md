@@ -62,6 +62,6 @@
 
 <p align='center'>
   <a href="https://github.com/KangJeongTaek">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=250&section=footer&text=Thank%20You&fontSize=40&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=150&section=footer&text=Thank%20You&fontSize=40&animation=fadeIn"/>
   </a>
 </p>
