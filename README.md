@@ -1,9 +1,9 @@
-# 👋 Welcome to KangJeongTaek 👋
 <p align='center'>
   <a href="https://github.com/KangJeongTaek">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=EFE4B0&height=300&section=header&text=KangJeongTaek's%20GitHub&fontSize=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=250&section=header&text=KangJeongTaek's%20GitHub&fontSize=40&animation=fadeIn"/>
   </a>
 </p>
+
 ## Profile
 - Name : 강정택(KangJeongTaek) / カン・ジョンテク
 - Learn : 빅데이터를 활용한 자바 개발자(2024-02~2024-07)
@@ -11,7 +11,14 @@
 - Phone : +82 010-4454-9325
 
 ## Github Stats
+<div align=center>
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KangJeongTaek)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJeongTaek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangJeongTaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>
 
 ## Using Languages
 <p align='left'>
@@ -42,8 +49,13 @@
   - [Spring Boot](https://github.com/KangJeongTaek/springboot-2024)
 
 
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangJeongTaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-</div>
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+<p align='center'>
+  <a href="https://github.com/KangJeongTaek">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=250&section=footer&text=Thank%20You&fontSize=40&animation=fadeIn"/>
+  </a>
+</p>
