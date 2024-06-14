@@ -46,6 +46,7 @@
 
 ## Portfolio
 - Python
+  - [파이썬 기본 공부](https://github.com/KangJeongTaek/java-bigdata-2024-Python) 
   - [빅데이터 분석](https://github.com/KangJeongTaek/bigdata-analysis-2024)
 - Java
   - [Spring Boot](https://github.com/KangJeongTaek/springboot-2024)
