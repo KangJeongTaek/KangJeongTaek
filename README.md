@@ -49,7 +49,10 @@
   - [파이썬 기본 공부](https://github.com/KangJeongTaek/java-bigdata-2024-Python) 
   - [빅데이터 분석](https://github.com/KangJeongTaek/bigdata-analysis-2024)
 - Java
+  - [자바 기본 공부](https://github.com/KangJeongTaek/java-bigdata-2024-Java)
   - [Spring Boot](https://github.com/KangJeongTaek/springboot-2024)
+  - [팀 프로젝트](https://github.com/PUK-Java/PUK-Groupware)
+  - [추가할 내 웹페이지]
 
 
 
