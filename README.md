@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Welcome!!! KangJeongTaek 👋
+### Profile
+- Name : 강정택(KangJeongTaek) / カン・ジョンテク
+- History : 빅데이터를 활용한 자바 개발자(2024-02~2024-07)
+- Email : dfgddjd@naver.com
+  
+
+
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
 
 <div align=center>
