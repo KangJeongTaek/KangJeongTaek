@@ -1,4 +1,9 @@
 # 👋 Welcome to KangJeongTaek 👋
+<p align='center'>
+  <a href="https://github.com/KangJeongTaek">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=EFE4B0&height=300&section=header&text=KangJeongTaek's%20GitHub&fontSize=40"/>
+  </a>
+</p>
 ## Profile
 - Name : 강정택(KangJeongTaek) / カン・ジョンテク
 - Learn : 빅데이터를 활용한 자바 개발자(2024-02~2024-07)
@@ -7,6 +12,13 @@
 
 ## Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KangJeongTaek)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJeongTaek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Using Languages
+<p align='left'>
+  <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000">
+  <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+</p>
 
 ## Using Tools
 <p align='left'>
@@ -27,9 +39,8 @@
 - Python
   - [빅데이터 분석](https://github.com/KangJeongTaek/bigdata-analysis-2024)
 - Java
-  - [Spring Boot]
+  - [Spring Boot](https://github.com/KangJeongTaek/springboot-2024)
 
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
 
 <div align=center>
   
