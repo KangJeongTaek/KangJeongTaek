@@ -25,7 +25,7 @@
 
 ## Portfolio
 - Python
-  - [빅데이터 분석]https://github.com/KangJeongTaek/bigdata-analysis-2024
+  - [빅데이터 분석](https://github.com/KangJeongTaek/bigdata-analysis-2024)
 - Java
   - [Spring Boot]
 
