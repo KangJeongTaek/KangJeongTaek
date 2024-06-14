@@ -43,6 +43,7 @@
 |:---:|:---|
 |Visual Studio Code| Python 개발, Spring Boot 개발|
 |Oracle 21C| DataBase 기본 학습 |
+|IntelliJ| Spring Boot 개발|
 
 ## Portfolio
 - Python
