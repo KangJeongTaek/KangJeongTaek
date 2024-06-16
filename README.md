@@ -36,6 +36,7 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="DBeaver">
   <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git">
   <img height="40" src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" title="githubDesktop">
+  <img height="40" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" title="docker">
 </p>
 
 ## Techniques Table
