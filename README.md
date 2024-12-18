@@ -9,7 +9,7 @@
 - Learn : 빅데이터를 활용한 자바 개발자(2024-02~2024-07)
 - Email : dfgddjd@naver.com
 - Phone : +82 010-4454-9325
-- Working At : 아이디
+- Working At : (주)아이디노
 
 ## Github Stats
 <div align=center>
