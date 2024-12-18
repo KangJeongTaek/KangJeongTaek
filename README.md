@@ -5,10 +5,11 @@
 </p>
 
 ## Profile
-- Name : 강정택(KangJeongTaek) / カン・ジョンテク
+- Name : 강정택(KangJeongTaek) / カンa・ジョンテク
 - Learn : 빅데이터를 활용한 자바 개발자(2024-02~2024-07)
 - Email : dfgddjd@naver.com
 - Phone : +82 010-4454-9325
+- Working At : 아이디
 
 ## Github Stats
 <div align=center>
@@ -34,6 +35,7 @@
 <p align='left'>
   <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" title="IntelliJ idea">
+  <img height="40" src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=000000" title="Eclipse">
   <img height="40" src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="DBeaver">
   <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git">
   <img height="40" src="https://img.icons8.com/?size=100&id=E2KVOMc77Geo&format=png&color=000000" title="githubDesktop">
@@ -44,8 +46,17 @@
 | 기술 분류 | 명세 |
 |:---:|:---|
 |Visual Studio Code| Python 개발, Spring Boot 개발|
-|Oracle 21C| DataBase 기본 학습 |
+|Oracle 21C| DataBase 기본 학습, PL/SQL |
 |IntelliJ| Spring Boot 개발|
+
+## Certifications
+|자격증 이름|취득 날짜|비고|
+|:--:|:--:|:--:|
+|JLPT 1급|2019-01|177점 취득|
+|컴퓨터활용능력1급|2021-05-14||
+|TOEIC|2023-08|880점 취득|
+|SQL개발자|2024-06-21||
+|정보처리기사|2024-12-11||
 
 ## Portfolio
 - Python
@@ -58,6 +69,8 @@
   - [내 웹페이지](http://223.130.128.216/)
 - React
   - [리액트 기본 공부](https://github.com/KangJeongTaek/2024-React-base)
+- Kotlin
+  - [코틀린 기본 공부](https://github.com/KangJeongTaek/test-kotlin) 
 
 
 
