@@ -5,7 +5,7 @@
 </p>
 
 ## Profile
-- Name : 강정택(KangJeongTaek) / カンa・ジョンテク
+- Name : 강정택(KangJeongTaek) / カン・ジョンテク
 - Learn : 빅데이터를 활용한 자바 개발자(2024-02~2024-07)
 - Email : dfgddjd@naver.com
 - Phone : +82 010-4454-9325
